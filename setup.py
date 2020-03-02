@@ -7,11 +7,11 @@ filename = 'rflint/version.py'
 exec(compile(open(filename, 'rb').read(), filename, 'exec'))
 
 setup(
-    name             = 'robotframework-lint',
+    name             = 'rf-lint',
     version          = __version__,
-    author           = 'Bryan Oakley',
-    author_email     = 'bryan.oakley@gmail.com',
-    url              = 'https://github.com/boakley/robotframework-lint/',
+    author           = 'LD',
+    author_email     = '',
+    url              = 'https://github.com/LDerikx/rf-lint',
     keywords         = 'robotframework',
     license          = 'Apache License 2.0',
     description      = 'Static analysis tool for robotframework plain text files',

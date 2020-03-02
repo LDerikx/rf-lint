@@ -1,4 +1,10 @@
 # Change Log
+
+## 1.0.2 - 2020-03-02
+- Fork
+- Fix for trailing Whitespace giving warning on all rows of all files
+- small document updates
+
 ## 1.0 - 2019-07-24
 
 ### Issues closed

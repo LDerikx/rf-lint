@@ -10,7 +10,7 @@ Installation Instructions
 
 The preferred method of installation is to use pip:
 
-    $ pip install --upgrade robotframework-lint
+    $ pip install --upgrade rf-lint
 
 This will install a package named "rflint", and an executable named "rflint"
 
@@ -26,7 +26,7 @@ Custom rules
 
 Rules are simple python classes. For more information about how to
 write rules, see the
-[robotframework-lint wiki](https://github.com/boakley/robotframework-lint/wiki)
+[robotframework-lint wiki](https://github.com/LDerikx/rf-lint/wiki)
 
 Argument files
 --------------
